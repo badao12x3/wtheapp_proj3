@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dự báo thời tiết</string>
+    <string name="weather_app">Weather App</string>
+    <string name="city_name">Thành phố</string>
+    <string name="sunny">Nhiều mây</string>
+    <string name="searchbar">Searchbar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map_api_key">AIzaSyAtTiWwNjmQll7vEtFiXdhDOX_T7pXgF3Q</string>
+    <string name="home">Trang chủ</string>
+    <string name="news">Tin tức</string>
+    <string name="news_title">Tin tức thời tiết</string>
+    <string name="settings">Cài đặt</string>
+</resources>

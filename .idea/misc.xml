@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.2075" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable-anydpi/ic_searchbar.xml" value="0.2075" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1425" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/box_shadow.xml" value="0.1395" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/box_with_shadow.xml" value="0.1395" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/box_withshadow.xml" value="0.1395" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/btn_state_confirm.xml" value="0.1385" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/circular_border.xml" value="0.1425" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/custom_btn_confirm_background.xml" value="0.1385" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/ic_high_temp_background.xml" value="0.1425" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/ic_high_temp_foreground.xml" value="0.1425" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1425" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/ic_low_temp_background.xml" value="0.1425" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/drawable/ic_low_temp_foreground.xml" value="0.1425" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/font-v26/montserrat.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/font/montserrat.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/activity_city_list.xml" value="0.264" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/activity_map.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/activity_news.xml" value="0.2" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/activity_settings.xml" value="0.264" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/activity_web_view.xml" value="0.1" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/city_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/city_list_0.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/forecast_item_list.xml" value="0.536" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/fragment_weather_screen.xml" value="0.253125" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/fragment_weather_screen2.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/hourly_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/layout/news_list.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/menu-v26/toolbar_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/menu/bottom_nav.xml" value="0.611328125" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/menu/toolbar.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/menu/toolbar_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.233" />
+        <entry key="..\:/Users/hoanl/WeatherApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
